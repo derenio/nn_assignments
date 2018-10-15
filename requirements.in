@@ -3,6 +3,7 @@ httpimport
 inline
 jupyter
 matplotlib
+pandas
 pip-tools
 seaborn
 sklearn
