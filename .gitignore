@@ -3,5 +3,5 @@
 .ipynb_checkpoints
 
 # Ignore data files
-assignment1/cifar.npz
-assignment1/mnist.npz
+cifar.npz
+mnist.npz
